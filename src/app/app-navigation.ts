@@ -15,7 +15,12 @@ export const navigation = [
       {
         text: 'Tasks',
         path: '/tasks'
-      }
+      },
     ]
+  },
+  {
+    text: 'Contact',
+    path: '/pages/contact',
+    icon: 'tel'
   }
 ];
